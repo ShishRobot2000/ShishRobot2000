@@ -21,7 +21,7 @@ Calculus, Group Theory, Ring Theory, Field Theory, Linear Algebra, Number Theory
 
 ---
 
-## 📂 Notable Projects
+## 📂 Projects
 
 ### 🗂️ [ToDo Manager – Java GUI + PostgreSQL](https://github.com/ShishRobot2000/ProjectBDD-OO-2025)
 
