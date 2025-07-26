@@ -16,7 +16,7 @@ Currently seeking internship or part-time opportunities to apply and expand my k
 Prolog, ML, C, C++, Java, Python, SQL, ARM Assembly
 
 **Software & Tools:**  
-PostgreSQL, Visual Studio Code, LaTeX, Windows
+PostgreSQL, Visual Studio Code, LaTeX, Linux, Windows
 
 **Mathematical Skills:**  
 Calculus, Group Theory, Ring Theory, Field Theory, Linear Algebra, Number Theory, Logic
