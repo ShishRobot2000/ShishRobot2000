@@ -4,12 +4,6 @@
 
 ---
 
-## 💡 Career Objective
-
-Currently seeking internship or part-time opportunities to apply and expand my knowledge in software development, systems programming, and algorithm design.
-
----
-
 ## 🛠️ Skills
 
 **Languages:**  
