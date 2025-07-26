@@ -30,20 +30,12 @@ Calculus, Group Theory, Ring Theory, Field Theory, Linear Algebra, Number Theory
 ## 📂 Notable Projects
 
 ### 🗂️ [ToDo Manager – Java GUI + PostgreSQL](https://github.com/ShishRobot2000/ProjectBDD-OO-2025)
-A desktop app for managing shared ToDo lists. Features include:
-- Java Swing-based GUI
-- PostgreSQL for persistent data storage
-- User authentication, CRUD operations, and real-time updates
-- Custom SQL views, functions, and automation triggers
 
 🛠️ *Tech Stack:* Java, PostgreSQL
 
 ---
 
 ### 🧠 [LASD – Advanced Data Structures Library in C++](https://github.com/ShishRobot2000/LASD_Project_2025)
-An academic project that implements a full library of data structures including:
-- Lists, Vectors, Sets, Heaps, Priority Queues
-- Support for traversal, dynamic resizing, object-oriented design, and templates
 
 🛠️ *Tech Stack:* C++
 
