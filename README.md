@@ -7,7 +7,7 @@
 ## 🛠️ Skills
 
 **Languages:**  
-Prolog, ML, C, C++, Java, Python, SQL, ARM Assembly
+C, C++, Java, Python, SQL, ARM Assembly, Prolog, ML
 
 **Software & Tools:**  
 PostgreSQL, Visual Studio Code, LaTeX, Linux, Windows
