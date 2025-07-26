@@ -43,14 +43,5 @@ Calculus, Group Theory, Ring Theory, Field Theory, Linear Algebra, Number Theory
 
 ---
 
-## 🔍 Currently Learning
-
-- Large Language Model
-- Advanced Algorithms and Complexity  
-- Logic
-- Python
-
----
-
 📫 Feel free to check out my projects and connect!
 
